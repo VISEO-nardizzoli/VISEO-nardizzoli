@@ -1,5 +1,5 @@
 # Nicolas Ardizzoli 
-## Senior Java Developer
+##  - Senior Java Developer -
 
 
 ### Languages and Tools:
